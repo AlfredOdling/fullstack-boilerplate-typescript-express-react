@@ -8,4 +8,4 @@
 
 ---
 
-Made by [DevSkills](https://devskills.co). 
+Made by [DevSkills](https://devskills.co).

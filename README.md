@@ -1,4 +1,4 @@
- # Fullstack Boilerplate
+# Fullstack Boilerplate
 
 Use it for setting up a take-home interview assignment or a portfolio project.
 
@@ -17,6 +17,7 @@ Use it for setting up a take-home interview assignment or a portfolio project.
 - ExpressJS
 - Cypress
 - GitHub Actions
+
 ---
 
 Made by [DevSkills](https://devskills.co).

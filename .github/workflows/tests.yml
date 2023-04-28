@@ -4,9 +4,9 @@ on:
     types: [opened, reopened]
   push:
     branches:
-      - '*'
-      - '!master'
-      - '!main'
+      - "*"
+      - "!master"
+      - "!main"
 jobs:
   tests:
     runs-on: ubuntu-20.04
