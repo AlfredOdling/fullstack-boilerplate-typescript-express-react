@@ -1,5 +1,5 @@
-describe('Frontend Test Spec', () => {
-  it('should visit index', () => {
-    cy.visit('/')
-  })
-})
+describe("Frontend Test Spec", () => {
+  it("should visit index", () => {
+    cy.visit("/");
+  });
+});
